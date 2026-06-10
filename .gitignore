@@ -1,0 +1,11 @@
+# Bỏ qua thư mục cache của Visual Studio
+.vs/
+
+# Bỏ qua các thư mục tạm do Unity tự sinh ra
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
